@@ -1,0 +1,3 @@
+[submodule "gatsbyjamstack"]
+    path = gatsbyjamstack
+    url = https://github.com/JagatheeshMenon/gatsbyjamstack.git
