@@ -4,7 +4,7 @@ import {footer} from './footer.module.css'
 const FooterMessage = (props) => (
     <div className={footer}>
     <div className="container">
-        <span className="text-muted">© Gatsby Bootstrap project 2021</span>
+        <span className="text-muted">© Gatsby static code page 2022</span>
     </div>
 </div>
 
